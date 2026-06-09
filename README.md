@@ -19,8 +19,8 @@ The project covers a full ML pipeline: data cleaning, encoding, feature scaling,
 | Algorithm | Logistic Regression |
 | Training Samples | ~5,634 |
 | Testing Samples | ~1,409 |
-| Accuracy | 73% |
-| ROC-AUC Score | 0.52 |
+| Accuracy | 80% |
+| ROC-AUC Score | 0.84 |
 
 
 ---
