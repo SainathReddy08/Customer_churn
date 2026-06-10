@@ -75,7 +75,7 @@ jupyter notebook customer_churn_prediction.ipynb
 - Binary classification with Logistic Regression
 - Label encoding and one-hot encoding for categorical features
 - Feature scaling using StandardScaler
-- Model evaluation — Accuracy, Precision, Recall, F1-Score
+- Model evaluation — Accuracy, Precision, Recall, F1-Score, Evaluation Matrix
 - ROC-AUC score 
 
 ---
